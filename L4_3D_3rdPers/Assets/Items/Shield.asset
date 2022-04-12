@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d94b30bb8f5cdf54180774671899bb1d, type: 3}
+  m_Name: Shield
+  m_EditorClassIdentifier: 
+  name: Shield
+  icon: {fileID: 21300000, guid: e00201374ca2040ee847d9d26dadbcbe, type: 3}
+  isDefaultItem: 0
+  price: 20
+  equipSlot: 4
+  armorModifier: 10
+  damageModifier: 0
+  typeOfWeapon: 0
+  mesh: {fileID: 1532589527092651535, guid: e1aaabaebdca29a40a9ac8f707361631, type: 3}
+  coveredMeshRegions: 
